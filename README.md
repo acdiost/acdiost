@@ -26,4 +26,4 @@ I am Dawn, an operation and maintenance development engineer.
   iii. Shell Scripting: - Bash programming.  
   iv. Databases: - MySQL, SQLite, Postgres, Oracle, Hive, Greenplum.  
   v. Operating Systems: - Linux - Arch Linux(Mostly), (OpenEuler, Fedora, Debian OS, Ubuntu), Windows.  
-  vi. Others: - Docker, Kubernetes, CI/CD, Ansible.
+  vi. Others: - Docker, Kubernetes, CI/CD, Ansible, Zabbix, Prometheus.
